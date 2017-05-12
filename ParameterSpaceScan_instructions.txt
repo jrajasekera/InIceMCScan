@@ -49,7 +49,7 @@ scheduler.sh -> This script submits and monitors all jobs.
 3.When setup.sh is done, there should be a new directory in your home directory. Move this directory to your ShelfMC directory.
 4.Do $screen to start a new screen that the scheduler can run on. This is incase you lose connection to the cluster mid run. 
 5.Do $./scheduler.sh to start script. This script automatically submits jobs and lets you see the status of the runs. This will run for several hours.
-5.The scheduler makes a text file of all jobs called jobList.txt in the ShelfMC dir. Make sure to delete jobList.txt before starting a whole new run.
+6.The scheduler makes a text file of all jobs called jobList.txt in the ShelfMC dir. Make sure to delete jobList.txt before starting a whole new run.
 
 
 ######RESULT#######
